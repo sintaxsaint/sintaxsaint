@@ -1,4 +1,4 @@
-# ![My Website](https://sintaxsaint.pages.dev)
+# [My Website](https://sintaxsaint.pages.dev)
 # 💫 About Me:
 🔭 I’m currently working on noxiom / board of sins<br>🌱 I’m currently learning css coding<br>💬 Ask me about anything
 
