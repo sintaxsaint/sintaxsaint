@@ -1,3 +1,4 @@
+# ![My Website](https://sintaxsaint.pages.dev)
 # 💫 About Me:
 🔭 I’m currently working on noxiom / board of sins<br>🌱 I’m currently learning css coding<br>💬 Ask me about anything
 
@@ -8,9 +9,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=sintaxsaint&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sintaxsaint&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sintaxsaint&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sintaxsaint&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
